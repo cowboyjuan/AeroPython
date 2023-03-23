@@ -1,4 +1,4 @@
-"lorem ipsum dolor sit amet..."
+lorem ipsum dolor sit amet...
 
 # Classical Aerodynamics with Python
 
